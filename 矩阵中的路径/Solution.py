@@ -1,8 +1,6 @@
 # -*- coding:utf-8 -*-
 class Solution:
 
-
-
     def dfs(self,i,j,path):
 
         if i<0 or i>=self.rows or j<0 or j>=self.cols:
